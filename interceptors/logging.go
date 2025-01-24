@@ -19,3 +19,4 @@ func BasicLogger() health.Interceptor {
 		}
 	}
 }
+"github.com/alexliesenfeld/health"
